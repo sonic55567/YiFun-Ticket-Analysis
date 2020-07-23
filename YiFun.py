@@ -21,10 +21,9 @@ for i in flag :
     for j in range(i) :
         table.append(index)
     index = index+1
-circle = [-1, 5, 9, 7, 1, 4, -1, 6, 0, 3, 8, 2]
 
-win = [0]*10
 # start to walk
+win = [0]*10
 for times in range(1000000) :
     circle = [-1, 5, 9, 7, 1, 4, -1, 6, 0, 3, 8, 2]
     now = 0
@@ -39,7 +38,7 @@ for times in range(1000000) :
             win[circle[now]] = win[circle[now]]+1
             circle.remove(circle[now])
             now = now-1
-        if(len(circle) == 5) :
+        if len(circle) == 5 :
             break
     
 
