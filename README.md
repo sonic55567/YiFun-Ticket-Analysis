@@ -2,12 +2,12 @@
 
 由於本次藝Fun券的抽籤方式有許多爭議，也有許多人覺得這次的直播抽籤不太公平(尾數6在這裡QQ)
 
-![](https://i.imgur.com/7zgzKqN.jpg)
 <img src="https://i.imgur.com/7zgzKqN.jpg" width="50%" height="50%" />
+
 圖片來源：直播截圖
 
 
-因此決定寫個小程式模擬抽籤過程，看看是不是真的某幾號機率比較低
+因此決定利用python簡單模擬抽籤過程，看看是不是真的某幾號機率比較低
 
 ### **P.S. 本文討論的範圍只有直播上看見的抽獎過程，不考慮一開始主辦聲稱隨機排列的數字順序**
 
@@ -105,7 +105,3 @@ while True :
 本來做這實驗是想安慰自己的，結果只是證明自己是真的運氣差QQQQQQ
 
 文章最後附上 [原始碼連結](https://github.com/sonic55567/YiFun-Ticket-Analysis/blob/master/YiFun.py)
-
-如果有剛好看到這篇文的人能順便幫我看看有沒有寫錯的地方XD
-
-感謝觀看~~
