@@ -1,8 +1,9 @@
 # 藝Fun券抽籤方式機率分析
 
-由於本次藝Fun券的抽籤方式有許多爭議，也有許多人覺得不太公平(包括我，尾數6QQQ)
+由於本次藝Fun券的抽籤方式有許多爭議，也有許多人覺得這次的直播抽籤不太公平(尾數6在這裡QQ)
 
 ![](https://i.imgur.com/7zgzKqN.jpg)
+<img src="https://i.imgur.com/7zgzKqN.jpg" width="50%" height="50%" />
 圖片來源：直播截圖
 
 
